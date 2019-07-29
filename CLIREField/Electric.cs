@@ -1,5 +1,9 @@
 ﻿using System;
 
+/// <summary>
+/// The TestCell namespace encapsulates classes that approximate electric field, water production,
+/// and consolidation in the EKS Test Cell.
+/// </summary>
 namespace TestCell
 {
     public class Electric
